@@ -1,0 +1,1 @@
+/home/rishi/robotics_SOI/build/robotcar/ament_cmake_environment_hooks/local_setup.bash
