@@ -58,5 +58,20 @@ ros2 launch robotcar launch_sim.launch.py world:=src/robotcar/worlds/obstacles.w
 
 added lidar : lidar.xacro file
 
+## commit-5:
+added camera : camera.xacro
+
+can't get compressed images
+```
+sudo apt install ros-humble-image-transport-plugins
+
+source /opt/ros/humble/setup.bash
+
+sudo apt install ros-humble-rqt-image-view
+
+ros2 run rqt_image_view rqt_image_view
+
+```
+
 <!-- ## 📁 Project Structure -->
 

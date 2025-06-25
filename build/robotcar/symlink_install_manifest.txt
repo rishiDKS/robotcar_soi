@@ -1,6 +1,7 @@
 /home/rishi/robotics_SOI/install/robotcar/share/robotcar/config/drive_bot.rviz
 /home/rishi/robotics_SOI/install/robotcar/share/robotcar/config/empty.yaml
 /home/rishi/robotics_SOI/install/robotcar/share/robotcar/config/robotcar.rviz
+/home/rishi/robotics_SOI/install/robotcar/share/robotcar/description/camera.xacro
 /home/rishi/robotics_SOI/install/robotcar/share/robotcar/description/gazebo_control.xacro
 /home/rishi/robotics_SOI/install/robotcar/share/robotcar/description/inertial_macros.xacro
 /home/rishi/robotics_SOI/install/robotcar/share/robotcar/description/lidar.xacro
