@@ -72,6 +72,7 @@ sudo apt install ros-humble-rqt-image-view
 ros2 run rqt_image_view rqt_image_view
 
 ```
-
+## commit-6:
+added depth camera : depth_camera.xacro
 <!-- ## 📁 Project Structure -->
 
