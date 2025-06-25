@@ -54,8 +54,9 @@ run from saved world:
 ros2 launch robotcar launch_sim.launch.py world:=src/robotcar/worlds/obstacles.world
 
 ```
+## commit-4:
 
----
+added lidar : lidar.xacro file
 
 <!-- ## 📁 Project Structure -->
 
