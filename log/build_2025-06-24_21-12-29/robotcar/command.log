@@ -1,0 +1,4 @@
+Invoking command in '/home/rishi/robotics_SOI/build/robotcar': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/rishi/robotics_SOI/build/robotcar -- -j16 -l16
+Invoked command in '/home/rishi/robotics_SOI/build/robotcar' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/rishi/robotics_SOI/build/robotcar -- -j16 -l16
+Invoking command in '/home/rishi/robotics_SOI/build/robotcar': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/rishi/robotics_SOI/build/robotcar
+Invoked command in '/home/rishi/robotics_SOI/build/robotcar' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/rishi/robotics_SOI/build/robotcar
